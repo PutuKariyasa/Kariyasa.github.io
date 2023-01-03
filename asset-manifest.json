@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Kariyasa.github.io/static/css/main.1105cdd3.css",
+    "main.js": "/Kariyasa.github.io/static/js/main.c3d4af7d.js",
+    "static/media/prj2.jpg": "/Kariyasa.github.io/static/media/prj2.927c09b10a192d007c35.jpg",
+    "static/media/intro.jpg": "/Kariyasa.github.io/static/media/intro.ec0e33af4e3b237b4007.jpg",
+    "static/media/prj3.jpg": "/Kariyasa.github.io/static/media/prj3.6af8d13a1c5d2451ffab.jpg",
+    "static/media/prj4.jpg": "/Kariyasa.github.io/static/media/prj4.3a9dc5ead1f8372df779.jpg",
+    "static/media/prj1.jpg": "/Kariyasa.github.io/static/media/prj1.0b269e97f3a217c87937.jpg",
+    "static/media/hero2.jpg": "/Kariyasa.github.io/static/media/hero2.85fa40882985d665330c.jpg",
+    "index.html": "/Kariyasa.github.io/index.html",
+    "main.1105cdd3.css.map": "/Kariyasa.github.io/static/css/main.1105cdd3.css.map",
+    "main.c3d4af7d.js.map": "/Kariyasa.github.io/static/js/main.c3d4af7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1105cdd3.css",
+    "static/js/main.c3d4af7d.js"
+  ]
+}
